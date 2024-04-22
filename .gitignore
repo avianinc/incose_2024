@@ -1,1 +1,9 @@
-.ipynb_checkpoints
+# JupyterLab notebooks
+*.ipynb
+*.ipynb_checkpoints/
+
+# Temporary files
+*.tmp
+
+# Files starting with a tilde
+~*
